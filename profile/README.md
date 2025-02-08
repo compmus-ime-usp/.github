@@ -1,6 +1,8 @@
 ## Computer Music Research Group - IME-USP
 
-This is the official Github organization of the Computer Music Research Group at IME-USP.
+Esta é a organização oficial do GitHub do Grupo de Pesquisa em Computação Musical do IME-USP.
+
+*This is the official Github organization of the Computer Music Research Group at IME-USP.*
 
 <!--
 
